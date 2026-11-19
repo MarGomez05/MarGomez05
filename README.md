@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy [TU NOMBRE]
+# 👋 ¡Hola! Soy Marvin Gómez
 
 ### Desarrollador Backend Java · Spring Boot · PostgreSQL · Angular
-
-*Construyendo software sólido, seguro y mantenible, un commit a la vez.*
 
 <br>
 
@@ -102,8 +100,8 @@ Integro **agentes de IA** en mi flujo de trabajo como herramienta de productivid
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-g%C3%B3mez-samayoa-56148529a/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvingomez0305@gmail.com)
 
 <br>
 
